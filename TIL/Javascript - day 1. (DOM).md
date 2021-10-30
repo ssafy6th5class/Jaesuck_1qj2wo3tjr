@@ -24,7 +24,7 @@
 
     1.  HTML 태그 이름(tag name)을 이용한 선택 -> document.getElementsByTagName(<tag name>)
 
-       !<img src="Javascript - day 1. (DOM).assets/2.jpg">
+       !<img src="Javascript - day 1. (DOM).assets/2.JPG">
 
        
 
