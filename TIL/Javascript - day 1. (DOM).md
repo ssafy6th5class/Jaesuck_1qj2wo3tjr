@@ -10,9 +10,9 @@
   - DOM (문서 객체 모델) 은 문서 객체를 인식하는 방법(방식) 이라고 할 수 있다. 
   - 넓게는 웹 브라우저가 HTML 페이지를 인식하는 방식, 좁은 의미로는 document 객체와 관련된 객체의 집합을 의미.
 
+![1]<img src="Javascript - day 1. (DOM).assets/1.png">
 
 
-![1](Javascript - day 1. (DOM).assets/1.png)
 
 ​																	< DOM은 구성 요소를 하나의 객체로 취급하여 다루는 논리적 트리 모델이다. >
 
