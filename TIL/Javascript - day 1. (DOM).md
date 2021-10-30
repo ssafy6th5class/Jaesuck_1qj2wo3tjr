@@ -24,13 +24,13 @@
 
     1.  HTML 태그 이름(tag name)을 이용한 선택 -> document.getElementsByTagName(<tag name>)
 
-       ![2](Javascript - day 1. (DOM).assets/2.JPG)
+       !<img src="Javascript - day 1. (DOM).assets/2.jpg">
 
        
 
     2.  아이디(id)를 이용한 선택 -> getElementById(<id name>)
 
-       ![3](Javascript - day 1. (DOM).assets/3.JPG)
+       !<img src="Javascript - day 1. (DOM).assets/3.jpg">
 
        
 
@@ -40,23 +40,23 @@
 
     3.  클래스(class)를 이용한 선택 -> document.getElementsByClassName(<class name>)
 
-       ![4](Javascript - day 1. (DOM).assets/4.JPG)
+       !<img src="Javascript - day 1. (DOM).assets/4.jpg">
 
        
 
     4.  name 속성(attribute)을 이용한 선택 -> document.getElementsByName(<name>)
 
-       ![5](Javascript - day 1. (DOM).assets/5.JPG)
+       !<img src="Javascript - day 1. (DOM).assets/5.jpg">
 
        
 
     5.   CSS 선택자(selector)를 이용한 선택 -> document.querySelectorAll(<selector>) : 선택자와 일치하는 여러 요소 선택, NodeList를 반환
 
-       ![6](Javascript - day 1. (DOM).assets/6.JPG)
+       !<img src="Javascript - day 1. (DOM).assets/6.jpg">
 
        (2) querySelector(<selector>) : 선택자와 일치하는 요소 1개 선택. 없다면 null을 반환
 
-       ![7](Javascript - day 1. (DOM).assets/7.JPG)
+       !<img src="Javascript - day 1. (DOM).assets/7.jpg">
 
        
 
@@ -97,7 +97,7 @@
   - DOM의 변경사항을 실시간으로  collection에 반영
   - ex) HTMLCollction, NodeList
 
-  ![8](Javascript - day 1. (DOM).assets/8.JPG)
+  <img src="Javascript - day 1. (DOM).assets/8.jpg">
 
   - 모든 글자가 빨간색으로 바뀔 것 같지만 실제로는 1번, 3번, 5번 만 바뀌었다. 
 
