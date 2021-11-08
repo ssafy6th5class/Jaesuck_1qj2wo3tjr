@@ -111,7 +111,7 @@
        
    // 시간을 0으로 해도 결과가 같은 이유 //
    setTimeout 함수 자체가 web api가 지원하는 비동기 함수
-   즉, setTimeout의 콜백함수가 바로 call stack에 싸힝는 것이 아니라 web api에서 비동기 처리된 후 콜 백 함수가 태스크 큐로 전달된다
+   즉, setTimeout의 콜백함수가 바로 call stack에 쌓이는 것이 아니라 web api에서 비동기 처리된 후 콜 백 함수가 태스크 큐로 전달된다
    시간을 아무리 0으로 해도 call stack에 바로 쌓이는 다른 함수들보다 늦게 호출된다
    ```
 

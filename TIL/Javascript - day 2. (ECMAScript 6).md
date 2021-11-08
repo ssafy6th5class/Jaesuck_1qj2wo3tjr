@@ -328,7 +328,7 @@ const arrow = name => `hello! ${name}`
     console.log(oddNums) // 1, 3, 5
     ```
 
-  - reduct : 배열의 각 요소에 대해 콜백 함수를 한 번씩 실행, 콜백 함수의 반환 값들을 하나의 값에 누적 후 반환
+  - reduce : 배열의 각 요소에 대해 콜백 함수를 한 번씩 실행, 콜백 함수의 반환 값들을 하나의 값에 누적 후 반환
 
     ```js
     array.reduce((acc, element, index, array) => {  // acc : 이전 callback함수의 반환 값이 누적되는 변수
